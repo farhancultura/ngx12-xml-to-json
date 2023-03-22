@@ -1,0 +1,7 @@
+export declare class NgxXmlToJsonService {
+    private parser;
+    private mimeType;
+    constructor();
+    xmlToJson(xmlString: string, myOptions: any): any;
+    private convertToJson;
+}

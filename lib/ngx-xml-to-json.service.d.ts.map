@@ -1,0 +1,1 @@
+{"version":3,"file":"ngx-xml-to-json.service.d.ts","sources":["ngx-xml-to-json.service.d.ts"],"names":[],"mappings":";AAAA;AACA;AACA;AACA;AACA;AACA;;;AACA","sourcesContent":["export declare class NgxXmlToJsonService {\n    private parser;\n    private mimeType;\n    constructor();\n    xmlToJson(xmlString: string, myOptions: any): any;\n    private convertToJson;\n}\n"]}
