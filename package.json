@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      "ngx-xml-to-json@1.0.1",
+      "C:\\TFS\\Greenstone\\Agris-Warehouse-Ionic-5\\Warehouse-Ionic-5"
+    ]
+  ],
+  "_from": "ngx-xml-to-json@1.0.1",
+  "_id": "ngx-xml-to-json@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-X+xFB4wT2aZ+Y39WP4xoTbOZ1HOcJNglVLKk1VBH5Bmyf01FaHw8oGfzD1TJuppOOYC2r1CTVzwt3XHu2WB9MA==",
+  "_location": "/ngx-xml-to-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ngx-xml-to-json@1.0.1",
+    "name": "ngx-xml-to-json",
+    "escapedName": "ngx-xml-to-json",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-xml-to-json/-/ngx-xml-to-json-1.0.1.tgz",
+  "_spec": "1.0.1",
+  "_where": "C:\\TFS\\Greenstone\\Agris-Warehouse-Ionic-5\\Warehouse-Ionic-5",
+  "author": {
+    "name": "Pradeep Shivaram",
+    "email": "pradeepshivaram@outlook.com"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "Angular library to convert xml to json",
+  "engines": {
+    "node": ">=0.10.2"
+  },
+  "es2015_ivy_ngcc": "__ivy_ngcc__/fesm2015/ngx-xml-to-json.js",
+  "es2015": "fesm2015/ngx-xml-to-json.js",
+  "esm2015": "esm2015/ngx-xml-to-json.js",
+  "esm5": "esm5/ngx-xml-to-json.js",
+  "fesm2015_ivy_ngcc": "__ivy_ngcc__/fesm2015/ngx-xml-to-json.js",
+  "fesm2015": "fesm2015/ngx-xml-to-json.js",
+  "fesm5": "fesm5/ngx-xml-to-json.js",
+  "keywords": [
+    "ngx-xml-to-json",
+    "xml to json",
+    "xml2json",
+    "angular8 xml to json"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-xml-to-json.umd.js",
+  "metadata": "ngx-xml-to-json.metadata.json",
+  "module": "fesm5/ngx-xml-to-json.js",
+  "name": "ngx-xml-to-json",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "sideEffects": false,
+  "typings": "ngx-xml-to-json.d.ts",
+  "version": "1.0.1",
+  "__processed_by_ivy_ngcc__": {
+    "es2015": "12.1.5",
+    "fesm2015": "12.1.5",
+    "typings": "12.1.5"
+  },
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by NGCC. This is not allowed.\\nPlease delete and rebuild the package, without compiling with NGCC, before attempting to publish.\\nNote that NGCC may have been run by importing this package into another project that is being built with Ivy enabled.\\n')\" && exit 1"
+  }
+}
